@@ -7,6 +7,7 @@
 - PHP
 - NODEJS
 - VUEJS
+- SQL
 ## I'm also experienced in Python
 ### 📫 How to reach me -> pablogervilla123@gmail.com
 
