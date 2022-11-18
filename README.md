@@ -1,12 +1,14 @@
 # Hi, I’m Pablo Ortiz Gervilla
 ## 👀 I’m interested in Front and Back End Web Development
 ## 🌱 I’m currently learning Full Stack Web Development. Using the next languages:
-- HTML5
-- CSS3
-- JAVASCRIPT
-- PHP
-- NODEJS
-- VUEJS
+### Expert in:
+  - HTML5
+  - CSS3
+  - JAVASCRIPT
+  - PHP
+### Experienced in:
+  - NODEJS
+  - VUEJS
 ## I'm also experienced in Python
 ### 📫 How to reach me -> pablogervilla123@gmail.com
 
