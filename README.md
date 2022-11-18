@@ -1,6 +1,7 @@
 # Hi, I’m Pablo Ortiz Gervilla
 ## 👀 I’m interested in Front and Back End Web Development
 ## 🧠 I’m currently learning Full Stack Web Development. Using the next languages:
+- WEB DESIGN
 - HTML5
 - CSS3
 - JAVASCRIPT
