@@ -1,14 +1,16 @@
 # Hi, I’m Pablo Ortiz Gervilla
 ## 👀 I’m interested in Front and Back End Web Development
-## 🧠 I’m currently learning Full Stack Web Development. Using the next languages:
-- WEB DESIGN
+## 🧠 Full Stack Web Developer. Languages learned:
 - HTML5
 - CSS3
 - JAVASCRIPT
 - PHP
+- SQL
 - NODEJS
 - VUEJS
-- SQL
+- LARAVEL
+- SIMFONY
+
 ## I'm also experienced in Python
 ### 📫 How to reach me -> pablogervilla123@gmail.com
 ### My portfolio: https://pablomyportfolio.000webhostapp.com/
