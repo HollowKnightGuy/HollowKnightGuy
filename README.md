@@ -5,13 +5,13 @@
 - CSS3
 - JAVASCRIPT
 - PHP
+- PYTHON
 - SQL
 - NODEJS
 - VUEJS
 - LARAVEL
 - SIMFONY
 
-## I'm also experienced in Python
 ### 📫 How to reach me -> pablogervilla123@gmail.com
 ### My portfolio: https://pablomyportfolio.000webhostapp.com/ (Contact Form Doesn't Work)
 <!---
